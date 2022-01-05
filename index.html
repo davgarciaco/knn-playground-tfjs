@@ -8,12 +8,16 @@
     <div>
         <h3>Input Data for Prediction</h3>
         <label>Hours</label><input type="number" max="24" min="0" id="hours">
+        <br>
         <label>Guests</label><input type="number" min="0" id="guests">
+        <br>
+        <label>Distance/K Value</label><input type="number" min=1 id="kValue">
+        <br>
         <button onclick="getPrediction()">Predict Event Type</button>
         <br>
-        <span style="color: green; background-color: black; font-family: monospace;" id="prediction-results">
+        <pre style="color: green; background-color: black; font-family: monospace;" id="prediction-results">
             <!-- RESULTS GO HERE -->
-        </span>
+        </pre>
     </div>
 </body>
 </html>
