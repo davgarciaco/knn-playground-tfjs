@@ -64,9 +64,33 @@ var weddingExample: tf.Tensor<any> = tf.tensor2d(weddingData);
 // knnClassifier.addExample(bdayExample, EVENT_TYPES[0]);
 // knnClassifier.addExample(weddingExample, EVENT_TYPES[1]);
 knnClassifier.setClassifierDataset(
-    {['BIRTHDAY']: bdayExample }
+    {['BIRTHDAY']: bdayExample,
+['WEDDING']: weddingExample}
 )
 //Predictions
-knnClassifier.predictClass(tf.tensor2d([[5,4]]), 2).then((d) => {
-    console.log("RESULTS", d);
-})
+
+
+const getPrediction = () => {
+    //@ts-ignore
+    let hours: string = document.getElementById('hours').value;
+    //@ts-ignore
+    let guests: string = document.getElementById('guests').value;
+    if(hours != null && guests != null){
+        let intHours = parseInt(hours);
+        let intGuests = parseInt(guests);
+       let results = knnClassifier.predictClass(tf.tensor2d([[intGuests,intHours]]), 2);
+
+        results.then(res => {
+            let { label } = res;
+            console.log("RESULTS: ", res);
+            let { confidences } = res;
+            let percentage = confidences[label] * 100;
+            document.getElementById('prediction-results').innerHTML = `RESULTS: ${label} with ${percentage}% confidence`;
+        });
+    }
+    else{
+        document.getElementById('prediction-results').innerHTML = `RESULTS: Failed Inputs ${hours ?? 'null'} hours and ${guests ?? null} guests `;
+    }
+}
+
+global.getPrediction = getPrediction;

@@ -4,5 +4,16 @@
   <script type="module" src="dist/bundle.js"></script>
 <body>
     <h1>Tensor Flow</h1>
+    <br>
+    <div>
+        <h3>Input Data for Prediction</h3>
+        <label>Hours</label><input type="number" max="24" min="0" id="hours">
+        <label>Guests</label><input type="number" min="0" id="guests">
+        <button onclick="getPrediction()">Predict Event Type</button>
+        <br>
+        <span style="color: green; background-color: black; font-family: monospace;" id="prediction-results">
+            <!-- RESULTS GO HERE -->
+        </span>
+    </div>
 </body>
 </html>
