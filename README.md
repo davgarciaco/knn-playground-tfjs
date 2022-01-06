@@ -9,3 +9,7 @@
 5. Spin up a Simple Server: `python -m SimpleHTTPServer 8080` (Python 2.7)
 6. Navigate to [localhost:8080](http://localhost:8080/)
 
+## Generate Timesheets
+`npx tsc -t es5 src/data-generation/timesheets.ts`
+`node src/data-generation/timesheets.js`
+

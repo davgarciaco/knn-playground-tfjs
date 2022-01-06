@@ -1,0 +1,1352 @@
+[
+   {
+      "EMPLOYEE": {
+         "ID": 0,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 0,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 0,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 0,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 16,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 0,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 1,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 1,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 1,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 1,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 1,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 2,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 2,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 2,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 2,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 2,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 3,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 3,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 3,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 3,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 3,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 4,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 4,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 4,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 6,
+      "END": 16,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 4,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 4,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 5,
+         "DEPARTMENT": "HR"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 5,
+         "DEPARTMENT": "HR"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 5,
+         "DEPARTMENT": "HR"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 5,
+         "DEPARTMENT": "HR"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 5,
+         "DEPARTMENT": "HR"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 6,
+         "DEPARTMENT": "HR"
+      },
+      "START": 6,
+      "END": 16,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 6,
+         "DEPARTMENT": "HR"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 6,
+         "DEPARTMENT": "HR"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 6,
+         "DEPARTMENT": "HR"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 6,
+         "DEPARTMENT": "HR"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 7,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 7,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 7,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 7,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 7,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 8,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 8,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 8,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 16,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 8,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 8,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 9,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 9,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 9,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 9,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 9,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 10,
+         "DEPARTMENT": "HR"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 10,
+         "DEPARTMENT": "HR"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 10,
+         "DEPARTMENT": "HR"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 10,
+         "DEPARTMENT": "HR"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 10,
+         "DEPARTMENT": "HR"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 11,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 11,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 11,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 11,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 11,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 12,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 12,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 12,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 12,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 16,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 12,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 13,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 13,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 16,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 13,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 13,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 13,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 14,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 14,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 14,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 14,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 14,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 15,
+         "DEPARTMENT": "HR"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 15,
+         "DEPARTMENT": "HR"
+      },
+      "START": 8,
+      "END": 16,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 15,
+         "DEPARTMENT": "HR"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 15,
+         "DEPARTMENT": "HR"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 15,
+         "DEPARTMENT": "HR"
+      },
+      "START": 8,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 16,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 16,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 16,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 16,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 16,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 16,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 16,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 17,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 17,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 17,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 17,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 17,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 18,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 18,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 18,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 18,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 18,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 19,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 19,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 19,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 19,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 17,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 19,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 20,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 20,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 20,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 16,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 20,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 20,
+         "DEPARTMENT": "ACCOUNTING"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 21,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 21,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 17,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 21,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 21,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 21,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 22,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 22,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 22,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 22,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 17,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 22,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 23,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 7,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 23,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 16,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 23,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 23,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 23,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 14,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 24,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 24,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 24,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 16,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 24,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 24,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 16,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 25,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 6,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 25,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 16,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 25,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 16,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 25,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 25,
+         "DEPARTMENT": "ENGINEERING"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 26,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 26,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 26,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 16,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 26,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 17,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 26,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 27,
+         "DEPARTMENT": "HR"
+      },
+      "START": 9,
+      "END": 16,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 27,
+         "DEPARTMENT": "HR"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 27,
+         "DEPARTMENT": "HR"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 27,
+         "DEPARTMENT": "HR"
+      },
+      "START": 9,
+      "END": 17,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 27,
+         "DEPARTMENT": "HR"
+      },
+      "START": 9,
+      "END": 14,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 28,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 28,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 17,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 28,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 28,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 28,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 17,
+      "DAY": "FRIDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 29,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 15,
+      "DAY": "MONDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 29,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 7,
+      "END": 14,
+      "DAY": "TUESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 29,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 9,
+      "END": 15,
+      "DAY": "WEDNESDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 29,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 8,
+      "END": 15,
+      "DAY": "THURSDAY"
+   },
+   {
+      "EMPLOYEE": {
+         "ID": 29,
+         "DEPARTMENT": "SALES"
+      },
+      "START": 6,
+      "END": 14,
+      "DAY": "FRIDAY"
+   }
+]
