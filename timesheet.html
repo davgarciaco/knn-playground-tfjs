@@ -1,0 +1,23 @@
+<html>
+<head>
+  <title>TensorFlow.js Tutorial</title>
+  <script type="module" src="dist/timesheets.bundle.js"></script>
+<body>
+    <h1>Tensor Flow</h1>
+    <br>
+    <div>
+        <h3>Input Data for Prediction</h3>
+        <label>Start</label><input type="number" max="24" min="0" id="hours">
+        <br>
+        <label>Hours</label><input type="number" min="0" max="5" id="guests">
+        <br>
+        <label>Distance/K Value</label><input type="number" min=1 id="kValue">
+        <br>
+        <button onclick="getPrediction()">Predict Event Type</button>
+        <br>
+        <pre style="color: green; background-color: black; font-family: monospace;" id="prediction-results">
+            <!-- RESULTS GO HERE -->
+        </pre>
+    </div>
+</body>
+</html>

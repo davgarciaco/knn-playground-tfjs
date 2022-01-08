@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var party_dto_1 = require("../dto/party.dto");
 var event_planner_1 = require("../data-generation/event-planner");
 var fs = require("fs");

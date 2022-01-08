@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.Party = void 0;
 var Party = /** @class */ (function () {
     function Party(type, date) {

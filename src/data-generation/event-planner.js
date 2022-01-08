@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.generateEventTypes = exports.EVENT_TYPES = exports.generateDates = void 0;
 var generateDates = function (year, month) {
     return new Date(year, month, Math.floor(Math.random() * 30), Math.floor(Math.random() * 24), Math.floor(Math.random() * 59), 0);
